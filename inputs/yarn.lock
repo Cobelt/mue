@@ -2013,9 +2013,9 @@ dns-equal@^1.0.0:
   integrity sha1-s55/HabrCnW6nBcySzR1PEfgZU0=
 
 dns-packet@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-1.3.1.tgz#12aa426981075be500b910eedcd0b47dd7deda5a"
-  integrity sha512-0UxfQkMhYAUaZI+xrNZOz/as5KgDU0M/fQ9b6SpkyLbk3GEswDi6PADJVaYJradtRVsRIlF1zLyOodbcTCDzUg==
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/dns-packet/-/dns-packet-1.3.4.tgz#e3455065824a2507ba886c55a89963bb107dec6f"
+  integrity sha512-BQ6F4vycLXBvdrJZ6S3gZewt6rcrks9KBgM9vrhW+knGRqc8uEdT7fuCwloc7nny5xNoMJ17HGH0R/6fpo8ECA==
   dependencies:
     ip "^1.1.0"
     safe-buffer "^5.0.1"
@@ -3991,13 +3991,14 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-muejs@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-muejs/-/react-muejs-1.0.2.tgz#8406826d6225c64fc4569e3257ac6345d9f04646"
-  integrity sha512-oLhuLMP7ZR37BcmGqiTNOUQjTQn2rn4Chww4/HunIg/fp/Adi6bEaO2rWuZ4wtHznVjEF4shRg9jOo+oTqzf2Q==
+react-muejs@^1.0.3:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-muejs/-/react-muejs-1.1.0.tgz#88b6984d2f0515ef6eb6ff076db92ffd3d626f17"
+  integrity sha512-ZEnpEsXgkl3r1wNBwzKZPbD0io1h982TcDnEkKpe6HaXvyox5tbwUbbcgVKbrmngO60mM0F3/ZbJ29hZeGO+eQ==
   dependencies:
     lodash.memoize "^4.1.2"
     muejs "^3.0.0"
+    uuid "^8.3.2"
 
 react@^17.0.2:
   version "17.0.2"
